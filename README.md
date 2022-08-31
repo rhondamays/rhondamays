@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/rhondamays/rhondamays/blob/main/githubprofilebanner.svg)
+![MasterHead](https://github.com/rhondamays/rhondamays/blob/main/github1.png)
 <h3 align="center">I'm a self-taught, detail oriented, quick learner who enjoys learning new things.</h3>
 
 - 🌱 I’m currently learning **Javascript**
