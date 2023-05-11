@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in learning new tools, frameworks, and technologies and creating cool and interesting applications with them.
 
-- 🌱 I’m currently revisiting **Angular**
+- 🌱 I’m currently **building projects to showcase my skills**
 
 - 📫 You can email me at **maysrhonda.7@gmail.com**
 
